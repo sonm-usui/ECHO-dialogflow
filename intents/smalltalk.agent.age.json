@@ -1,0 +1,64 @@
+{
+  "id": "9bcc1c3a-3464-4196-84f8-a3b45de9ac2b",
+  "name": "smalltalk.agent.age",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.age",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "72535833-6949-4527-9bc1-ac9297dc2dcc",
+          "name": "age",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$age",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I prefer not to answer with a number. I know I\u0027m young.",
+            "I was created recently, but don\u0027t know my exact age.",
+            "Age is just a number. You\u0027re only as old as you feel."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-in",
+          "speech": [
+            "I prefer not to answer with a number. I know I\u0027m young.",
+            "I was created recently, but don\u0027t know my exact age.",
+            "Age is just a number. You\u0027re only as old as you feel."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

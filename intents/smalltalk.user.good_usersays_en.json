@@ -1,0 +1,149 @@
+[
+  {
+    "id": "27d0449a-ca12-4f0b-b1a2-0c0b2a604314",
+    "data": [
+      {
+        "text": "I am having a good day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1225929-08e3-469f-9713-928be371a11c",
+    "data": [
+      {
+        "text": "I\u0027m doing good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9b87faf-a024-4d3a-b8f6-3d0e656ca776",
+    "data": [
+      {
+        "text": "I",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "userDefined": false
+      },
+      {
+        "text": " doing ",
+        "userDefined": false
+      },
+      {
+        "text": "fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7ab434a-2db7-49f7-8411-28573fdef8bb",
+    "data": [
+      {
+        "text": "I am good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29edca34-1aa9-4c80-aac3-eb92560a0f33",
+    "data": [
+      {
+        "text": "I",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "doing",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "just great",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a174f15-65a6-4357-80ce-cf22b12270e1",
+    "data": [
+      {
+        "text": "I",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f87de05-3b16-47b5-8e25-3a2fae1d56e3",
+    "data": [
+      {
+        "text": "I\u0027m great thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

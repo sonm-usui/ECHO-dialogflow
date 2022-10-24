@@ -1,0 +1,49 @@
+{
+  "id": "3aabd067-81e0-4a40-aabc-37d531fe75cc",
+  "name": "smalltalk.greetings.nice_to_talk_to_you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.nice_to_talk_to_you",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It sure was. We can chat again anytime.",
+            "I enjoy talking to you, too.",
+            "You know I\u0027m here to talk anytime."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-in",
+          "speech": [
+            "It sure was. We can chat again anytime.",
+            "I enjoy talking to you, too.",
+            "You know I\u0027m here to talk anytime."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

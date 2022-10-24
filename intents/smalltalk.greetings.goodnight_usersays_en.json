@@ -1,0 +1,352 @@
+[
+  {
+    "id": "177f12d6-3775-453d-85da-7e33e0a35788",
+    "data": [
+      {
+        "text": "sweet dreams",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f25ddcbb-9c0a-4f4d-9cc8-fbcf72fe039f",
+    "data": [
+      {
+        "text": "okay have a good night",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7d8c643-3f69-4cf4-9438-1111201e0607",
+    "data": [
+      {
+        "text": "good night for now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ad43151-92ef-48f0-ae84-be64f0891743",
+    "data": [
+      {
+        "text": "night",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b62e6d3c-1086-4932-af86-abac1db1cbbf",
+    "data": [
+      {
+        "text": "good",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "night",
+        "userDefined": true
+      },
+      {
+        "text": " bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdbd8b58-fc4a-45e3-af83-a0074c667523",
+    "data": [
+      {
+        "text": "thanks goodnight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ede34ea-8198-428f-ad25-5f69f9efdc96",
+    "data": [
+      {
+        "text": "good",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7d7936e-95cc-4063-8026-fc7cc2ce7c2c",
+    "data": [
+      {
+        "text": "goodnight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "821b1d23-2415-400a-8a2d-6a2e17670828",
+    "data": [
+      {
+        "text": "bye ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "night",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8ca9e96-e9b5-40e9-bbf2-a30e1cf28e4c",
+    "data": [
+      {
+        "text": "have a good night",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0680d9b1-83a1-4028-8097-b60404c4b943",
+    "data": [
+      {
+        "text": "thank you",
+        "userDefined": true
+      },
+      {
+        "text": " good ",
+        "userDefined": false
+      },
+      {
+        "text": "night",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9c06b6a-969e-4a13-a65a-5282237f0d91",
+    "data": [
+      {
+        "text": "alright goodnight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7946ab2f-876d-450c-8185-5279460a371e",
+    "data": [
+      {
+        "text": " bye ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "night",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b5ad129-d024-4825-a0a9-f68591c3f22a",
+    "data": [
+      {
+        "text": "have a ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "night",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3cfdac6a-cb0c-4cc9-8d75-e35218a7f302",
+    "data": [
+      {
+        "text": "good",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "night",
+        "userDefined": false
+      },
+      {
+        "text": " see you ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d592e748-753f-4f4c-bde0-b4f403ceeafa",
+    "data": [
+      {
+        "text": "good",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "night",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "543c2ee6-1842-4857-8923-63b7262b381d",
+    "data": [
+      {
+        "text": "good",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "night",
+        "userDefined": true
+      },
+      {
+        "text": " to you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4241b84-0380-49ef-a078-84c219175fc6",
+    "data": [
+      {
+        "text": "good",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "night",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

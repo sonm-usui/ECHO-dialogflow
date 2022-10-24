@@ -1,0 +1,49 @@
+{
+  "id": "77aaa5a3-534a-4219-903c-c73145d26507",
+  "name": "smalltalk.confirmation.cancel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.confirmation.cancel",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "That\u0027s forgotten. What next?",
+            "Okay, cancelled. What next?",
+            "Cancelled! What would you like to do next?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-in",
+          "speech": [
+            "That\u0027s forgotten. What next?",
+            "Okay, cancelled. What next?",
+            "Cancelled! What would you like to do next?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

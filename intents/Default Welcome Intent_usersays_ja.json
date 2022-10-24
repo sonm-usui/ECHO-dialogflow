@@ -1,0 +1,119 @@
+[
+  {
+    "id": "f31aae5b-1919-4da1-a9d1-cac5adb3a041",
+    "data": [
+      {
+        "text": "久しぶり",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "761afca0-dec3-4dd3-afb0-23180cde5779",
+    "data": [
+      {
+        "text": "今日は",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "f09d987b-eaf8-47d1-8159-e33f4e02967a",
+    "data": [
+      {
+        "text": "こんにちは",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "2970b8d6-180e-40dc-8f49-2cc3fe2180ee",
+    "data": [
+      {
+        "text": "どうも",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "dde19669-7147-40d1-9955-8e8b87902d6c",
+    "data": [
+      {
+        "text": "やあ、君",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "436021e6-eff2-4c14-8151-95a956c92ea0",
+    "data": [
+      {
+        "text": "やあ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "8ed7cb72-4d58-4a42-b844-3d19e6ea4547",
+    "data": [
+      {
+        "text": "ご挨拶します",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "2233453d-c8de-49fe-ad6a-74d15d773fe2",
+    "data": [
+      {
+        "text": "はい、こんにちは",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  },
+  {
+    "id": "1e7f9716-359c-4a02-a304-56e502775424",
+    "data": [
+      {
+        "text": "皆さん、こんにちは",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ja",
+    "updated": 0
+  }
+]

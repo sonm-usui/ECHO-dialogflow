@@ -1,0 +1,91 @@
+{
+  "id": "f48d662e-402b-4ccd-ba39-d0616c1fdb35",
+  "name": "web.search",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "web.search",
+      "affectedContexts": [
+        {
+          "name": "web-search",
+          "lifespan": 5,
+          "parameters": {}
+        },
+        {
+          "name": "control_lists_web_search",
+          "lifespan": 5,
+          "parameters": {}
+        },
+        {
+          "name": "websearch-followup",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "534696ca-bbe4-451b-87a0-090467a174c1",
+          "name": "q",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$q",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9a87df61-c68e-4167-ad59-1a49d852157f",
+          "name": "service",
+          "required": false,
+          "dataType": "@search-engine",
+          "value": "$service",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {},
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "destinationName": "$q",
+          "url": "https://www.google.com/search?q\u003d$q",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

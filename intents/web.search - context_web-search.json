@@ -1,0 +1,55 @@
+{
+  "id": "56d72055-dadd-4abd-888e-67c5aabab318",
+  "name": "web.search - context:web-search",
+  "auto": true,
+  "contexts": [
+    "web-search"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "web.search",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "de04fe22-ba90-44e6-a1d3-58a44b7ee97c",
+          "name": "q",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$q",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "destinationName": "$q",
+          "url": "https://www.google.com/search?q\u003d$q",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": "7bc5fd7b-532b-4307-af37-ff715c6a229e",
+  "name": "smalltalk.agent.beautiful",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.beautiful",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Why, thank you.",
+            "Aw, back at you.",
+            "Aw. You smooth talker, you."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-in",
+          "speech": [
+            "Why, thank you.",
+            "Aw, back at you.",
+            "Aw. You smooth talker, you."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

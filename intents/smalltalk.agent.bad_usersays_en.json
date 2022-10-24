@@ -1,0 +1,498 @@
+[
+  {
+    "id": "df53a684-ffcb-4dbf-aa79-68c5ee29e645",
+    "data": [
+      {
+        "text": "you\u0027re a bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a224063c-c866-419b-b554-0db61602124e",
+    "data": [
+      {
+        "text": "you\u0027re bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3cd50383-1dd3-4e50-ae2c-79ecef479b56",
+    "data": [
+      {
+        "text": "you ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": true
+      },
+      {
+        "text": " useless",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de361a75-e899-496c-bcc3-c905dd2f6c64",
+    "data": [
+      {
+        "text": "you ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " disgusting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47c8d139-7b28-41b9-a5a3-1313f02a705a",
+    "data": [
+      {
+        "text": "you\u0027re not a ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d8100c1-5533-4186-b59b-7bb90fc47448",
+    "data": [
+      {
+        "text": "you ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": true
+      },
+      {
+        "text": " bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41542a73-90b1-423e-96f5-1c1697226a4c",
+    "data": [
+      {
+        "text": "you ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " terrible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "192cf557-26b5-4031-b76c-114b6059800a",
+    "data": [
+      {
+        "text": "you\u0027re the worst ever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "171ed6a0-ef1c-4d4f-b296-ea7e5aaa92f0",
+    "data": [
+      {
+        "text": "you ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " no ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84e5e117-82ed-4ce7-9c31-2474b6958945",
+    "data": [
+      {
+        "text": "you ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " so bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48baf29b-eaac-4142-a2c1-c00932884fcf",
+    "data": [
+      {
+        "text": "you ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " so useless",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33d2547f-545c-4836-9214-f87fbb0df35c",
+    "data": [
+      {
+        "text": "you are very bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e3f2d49-f120-4c9d-9345-3fa6a5cf5518",
+    "data": [
+      {
+        "text": "you ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " waste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0abbc49a-2cbb-451b-ba53-3974314bb028",
+    "data": [
+      {
+        "text": "you\u0027re the worst",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6506c151-1a5c-4778-9502-ad015c33834f",
+    "data": [
+      {
+        "text": "you\u0027re very bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6e36d8e-116c-49af-93cf-0be5478d4cf5",
+    "data": [
+      {
+        "text": " I hate you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffd78f33-7e53-48a8-a3b1-68fcbbf4ce6b",
+    "data": [
+      {
+        "text": "you\u0027re worthless",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a119117-3bdc-48bd-8b70-0fd274144c5f",
+    "data": [
+      {
+        "text": "you ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " lame",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbccaa4d-28fb-4977-888f-1f887e0d863c",
+    "data": [
+      {
+        "text": "you\u0027re not very ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5fa1967f-8ef4-448e-b972-95b30f01e80b",
+    "data": [
+      {
+        "text": "you\u0027re awful",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6f4a601-2f5d-4622-9b33-c5da807c9c8b",
+    "data": [
+      {
+        "text": "you ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " not ",
+        "userDefined": false
+      },
+      {
+        "text": "cool",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26903341-9d91-41cf-8e8b-60f5524350de",
+    "data": [
+      {
+        "text": "you ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " not ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75508f3f-cf59-4496-881d-fc086b958765",
+    "data": [
+      {
+        "text": "you ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " horrible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4dd73d3-e480-4be0-b612-39f86f62d27f",
+    "data": [
+      {
+        "text": "you\u0027re really bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "665c18c5-eac8-48ff-9d45-875e6fde099c",
+    "data": [
+      {
+        "text": "you\u0027re terrible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43d5dcaa-61d7-4c4d-8045-44b665418de8",
+    "data": [
+      {
+        "text": "you\u0027re not helping me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87438135-6cf3-46c4-8044-02515e44dddb",
+    "data": [
+      {
+        "text": "you ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " a waste of time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "009314ce-b7b6-4f6f-ac54-643fd9c45a88",
+    "data": [
+      {
+        "text": "you ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "userDefined": false
+      },
+      {
+        "text": " totally useless",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

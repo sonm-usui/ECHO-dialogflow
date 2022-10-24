@@ -1,0 +1,47 @@
+{
+  "id": "aff21910-42d5-48c1-ab1a-bc5c6fcd7fda",
+  "name": "smalltalk.appraisal.bad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.appraisal.bad",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m sorry. Please let me know if I can help in some way.",
+            "I must be missing some knowledge. I\u0027ll have my developer look into this."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-in",
+          "speech": [
+            "I\u0027m sorry. Please let me know if I can help in some way.",
+            "I must be missing some knowledge. I\u0027ll have my developer look into this."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

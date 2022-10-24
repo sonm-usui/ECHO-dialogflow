@@ -1,0 +1,132 @@
+[
+  {
+    "id": "275dbd0b-dbe7-425f-aed3-b933d10eab20",
+    "data": [
+      {
+        "text": "do it again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2bacda50-0b79-4924-82d5-fadc6fbb2f9b",
+    "data": [
+      {
+        "text": "say it again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16d7c645-86eb-4ead-b731-dc9712560735",
+    "data": [
+      {
+        "text": "say the same again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "857def3f-a27e-4779-9032-bd3d15fd21f5",
+    "data": [
+      {
+        "text": "repeat these results",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dea55591-cbc5-4267-a815-39ec0e1870f6",
+    "data": [
+      {
+        "text": "could you repeat that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5e9c450-f820-4125-9300-e3b7d1323533",
+    "data": [
+      {
+        "text": "please repeat that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f88d8553-40ef-456a-a4f7-ba4b9294ec13",
+    "data": [
+      {
+        "text": "repeat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f4976eb-7294-4384-9a44-41e493216418",
+    "data": [
+      {
+        "text": "repeat what you\u0027ve just said",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d0252f3-efb8-4264-9930-c9a9f88b834d",
+    "data": [
+      {
+        "text": "come again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1577b86-2fb7-48ce-a4e5-b8894ce748a2",
+    "data": [
+      {
+        "text": "repeat it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

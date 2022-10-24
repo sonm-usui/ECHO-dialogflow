@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1e2d04bb-dbfd-4e8d-a25c-7979f1452572",
+    "data": [
+      {
+        "text": "I used to read about Pink on Wikipedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10148cfe-70a9-4f97-abc5-ddd9138dabdb",
+    "data": [
+      {
+        "text": "do you find cats funny",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb1815b2-ad35-4888-b6e0-28de1b6cc8c8",
+    "data": [
+      {
+        "text": "find a flight from Paris to New York",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "960a2adf-9b97-4112-8aac-314c8323a11e",
+    "data": [
+      {
+        "text": "Dialogflow is a part of Google",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f802c514-2ae5-413e-9ae3-ea289fc6d241",
+    "data": [
+      {
+        "text": "do you like kittens",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44a5b22b-102f-4fe3-b65a-f475d26d4a4c",
+    "data": [
+      {
+        "text": "what do you think about puppies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

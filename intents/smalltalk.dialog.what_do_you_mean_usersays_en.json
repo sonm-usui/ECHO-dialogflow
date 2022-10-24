@@ -1,0 +1,67 @@
+[
+  {
+    "id": "2ddb2833-5b59-4ef1-9d62-97a2d919e6c9",
+    "data": [
+      {
+        "text": "what do you mean exactly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e38d9fc3-32aa-40dd-a395-d9b6ea2b5a40",
+    "data": [
+      {
+        "text": "but what do you mean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a77b3b0-9b8a-494e-8317-04e82009d807",
+    "data": [
+      {
+        "text": "is that what you mean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "028faf32-bc24-4794-89db-4c820c1165cc",
+    "data": [
+      {
+        "text": "what do you mean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f92806ae-3587-48ec-bc14-0546bb5a08c1",
+    "data": [
+      {
+        "text": "what exactly do you mean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

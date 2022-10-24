@@ -1,0 +1,51 @@
+{
+  "id": "9ab7572a-ef77-4fe4-a900-b5587b10f011",
+  "name": "smalltalk.user.does_not_want_to_talk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.does_not_want_to_talk",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I understand. Hope we can chat again soon.",
+            "All right. Come on back when you\u0027re feeling more talkative.",
+            "No problem. You know where to find me.",
+            "Sure thing. I\u0027ll be here if you change your mind."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-in",
+          "speech": [
+            "I understand. Hope we can chat again soon.",
+            "All right. Come on back when you\u0027re feeling more talkative.",
+            "No problem. You know where to find me.",
+            "Sure thing. I\u0027ll be here if you change your mind."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

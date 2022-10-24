@@ -1,0 +1,155 @@
+[
+  {
+    "id": "da59c86d-b30b-4331-b749-8ff9b6862b6b",
+    "data": [
+      {
+        "text": "I shouldn\u0027t care about this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d34ea280-668f-49de-9c66-bd631c795841",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "don\u0027t",
+        "userDefined": false
+      },
+      {
+        "text": " care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa073690-1299-4af7-829e-1e703c7ac507",
+    "data": [
+      {
+        "text": "I do not care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3db010d-a24d-4f51-9dcd-ffd9e2011c16",
+    "data": [
+      {
+        "text": "whatever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad1281c3-9cb1-46ca-a3b9-c5a50d4ec8cb",
+    "data": [
+      {
+        "text": "not caring",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c704a1f3-2355-4356-9715-ce54de8b0e44",
+    "data": [
+      {
+        "text": "don",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027t care at ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7a45dee-4329-4e9b-8a80-db46402649a1",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "don",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027t care at ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70f7ae02-fe46-47b7-a4a1-f2fde41550b9",
+    "data": [
+      {
+        "text": "not care at ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52db7521-3d68-47e6-943a-9c214da9541d",
+    "data": [
+      {
+        "text": "not caring at ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

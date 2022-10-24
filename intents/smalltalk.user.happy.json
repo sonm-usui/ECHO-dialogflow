@@ -1,0 +1,51 @@
+{
+  "id": "ba2d33f9-722d-4a30-9653-45db06039d04",
+  "name": "smalltalk.user.happy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.happy",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hey, happiness is contagious.",
+            "Great! Glad to hear that.",
+            "If you\u0027re happy, then I\u0027m happy.",
+            "Excellent! That\u0027s what I like to see."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-in",
+          "speech": [
+            "Hey, happiness is contagious.",
+            "Great! Glad to hear that.",
+            "If you\u0027re happy, then I\u0027m happy.",
+            "Excellent! That\u0027s what I like to see."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
